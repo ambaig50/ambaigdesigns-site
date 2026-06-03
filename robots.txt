@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ambaig50.github.io/ambaigdesigns-site/sitemap.xml
