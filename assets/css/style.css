@@ -78,6 +78,7 @@ nav a{
 nav a:hover{
     color:#2563eb;
 }
+/* ===== HERO ===== */
 //.hero-image{
   //  max-width:100%;
   //  width:900px;
@@ -99,15 +100,15 @@ nav a:hover{
     text-align:center;
     padding:100px 20px;
 }
-/* ===== HERO ===== */
 
-//.hero{
-  //  background:linear-gradient(135deg,#2563eb,#1d4ed8);
-  //  color:white;
-   // text-align:center;
-    //padding:100px 20px;
+
+.hero{
+   background:linear-gradient(135deg,#2563eb,#1d4ed8);
+   color:white;
+   text-align:center;
+    padding:100px 20px;
     
-//}
+}
 
 .hero h2{
     font-size:48px;
