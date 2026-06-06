@@ -86,7 +86,7 @@ nav a:hover{
   //  border-radius:15px;
     //box-shadow:0 10px 30px rgba(0,0,0,.2);
 //}
-.hero{
+.hero1{
     background:
     linear-gradient(
     rgba(0,0,0,0.55),
@@ -102,13 +102,13 @@ nav a:hover{
 }
 
 
-//.hero{
-//   background:linear-gradient(135deg,#2563eb,#1d4ed8);
- //  color:white;
- //  text-align:center;
-  //  padding:100px 20px;
+.hero{
+   background:linear-gradient(135deg,#2563eb,#1d4ed8);
+   color:white;
+   text-align:center;
+    padding:100px 20px;
     
-//}
+}
 
 .hero h2{
     font-size:48px;
