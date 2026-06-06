@@ -101,12 +101,13 @@ nav a:hover{
 }
 /* ===== HERO ===== */
 
-.hero{
-    background:linear-gradient(135deg,#2563eb,#1d4ed8);
-    color:white;
-    text-align:center;
-    padding:100px 20px;
-}
+//.hero{
+  //  background:linear-gradient(135deg,#2563eb,#1d4ed8);
+  //  color:white;
+   // text-align:center;
+    //padding:100px 20px;
+    
+//}
 
 .hero h2{
     font-size:48px;
